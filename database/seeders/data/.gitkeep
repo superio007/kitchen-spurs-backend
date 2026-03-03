@@ -1,0 +1,7 @@
+# Place your JSON data files here
+
+This directory should contain:
+- restaurants.json
+- orders.json
+
+See the README for the expected format of these files.
